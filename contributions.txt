@@ -1,0 +1,3 @@
+Tajae Anderson- Worked on the search music feature, go to the next or previous song feature, repeat feature and created song class
+Sussel Rodriguez- 
+Jay- 
