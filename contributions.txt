@@ -1,3 +1,8 @@
+I along with my team mates planned and executed the development of a music player project, 
+which involved meticulously checking the code for accuracy and functionality, 
+and coding it in a clean and organized manner to improve its readability and maintainability.
+
 Tajae Anderson- Worked on the search music feature, go to the next or previous song feature, repeat feature and created song class
-Sussel Rodriguez- 
-Jay- 
+Sussel Rodriguez- Effectively managed the logistics of the project, including resource allocation,
+scheduling, and risk management, to ensure that everything ran smoothly and efficiently.
+Jay- Worked on the Main class, cleaned up code, strucutred code, worked on lyrics class and playlist class
